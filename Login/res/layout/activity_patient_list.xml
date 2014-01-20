@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res/com.astuetz.viewpager.extensions.example">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select a Patient"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+<LinearLayout
+android:id="@+id/linearLayout"
+android:orientation="horizontal"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content" >
+</LinearLayout>
+</TableLayout>

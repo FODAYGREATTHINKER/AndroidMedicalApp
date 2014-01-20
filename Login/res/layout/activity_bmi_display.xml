@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".BMIDisplay" >
+    
+    <EditText
+        android:id="@+id/mass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/height"
+        android:layout_alignRight="@+id/height"
+        android:hint="@string/mass"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/mass"
+        android:layout_below="@+id/mass"
+        android:layout_marginTop="42dp"
+        android:onClick="sendNumbers"
+        android:text="@string/button_send" />
+
+    <EditText
+        android:id="@+id/height"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mass"
+        android:ems="10"
+        android:hint="@string/height"
+        android:inputType="numberDecimal" >
+
+        <requestFocus />
+    </EditText>
+
+</RelativeLayout>

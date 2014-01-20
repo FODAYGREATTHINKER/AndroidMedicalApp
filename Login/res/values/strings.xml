@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_profile_menu">ProfileMenu</string>
+    <string name="title_activity_patient_history">PatientHistory</string>
+    <string name="title_activity_patient_history_edit">PatientHistoryEdit</string>
+    <string name="title_activity_bmi_calculator">BmiCalculator</string>
+    <string name="title_activity_bmi_display">BmiDisplay</string>
+
+    <string-array name="first_aid_terms_array">
+        <item>Abdominal Pain</item>
+        <item>Abrasions</item>
+        <item>Altitude Sickness</item>
+        <item>Allergic Reaction</item>
+        <item>Bleeding And Wound Care</item>
+        <item>Blisters</item>
+        <item>Head Injuries</item>
+        <item>Burns</item>
+        <item>Chest Wounds</item>
+        <item>Ear Injuries</item>
+        <item>Heart Attack</item>
+        <item>Heat Exhaustion</item>
+        <item>Heat Stroke</item>
+        <item>Hypothermia</item>
+        <item>Nosebleeds</item>
+        <item>Shock</item>
+        <item>Spinal Injuries</item>
+        <item>Sprains, Strains And Fractures</item>
+        <item>Tooth Injuries</item>
+    </string-array>
+    <string-array name="first_aid_text_array">
+        <item>For stomachache or diarrhea, keep the patient hydrated and on a bland diet, if tolerated.</item>
+        <item>For an abrasion treated within 10 minutes, apply antibiotic ointment and cover with a sterile dressing.\nFor an abrasion treated after 10 minutes or there are items, such as sand and pebbles, in the wound, scrub the wound, apply antibiotic ointment and cover with a sterile dressing.</item>
+        <item>Descend safely to a lower altitude.\nAdminister supplemental oxygen, if available and you are trained to do so.</item>
+        <item>Assist the patient with his or her prescribed epinephrine.\nHelp the patient self-administer an oral antihistamine if he or she can swallow and has no known contraindications.</item>
+        <item>Apply direct pressure, except to a head or neck wound.\nFor neck wounds: carefully pinch the opening of the wound closed.\nFor head wounds: cover the wound with a bulky dressing and press lightly.\nControl bleeding, then thoroughly wash the wound with a large amount of disinfected water under pressure.\nClose and protect wounds with antibiotic ointment, cover with sterile dressings and secure in place (except lacerations bigger than 0.5 inch wide; animal bites; deep puncture wounds; wounds that expose bones, tendons or ligaments; or dirty/infected wounds. Pack these with sterile dressings, apply antibiotic ointment, cover with dressings and then bandage).\nRe-clean any area you suspect is infected. Pack with moist sterile dressing then dry dressing to promote draining at least twice daily. continue to monitor.</item>
+        <item>Clean around the site thoroughly.\nIf the blister is intact:\nSterilize the point of a needle or knife.\nOpen the blister on one side, enough to massage fluid out, but leave the roof (skin of blister) intact.\nApply moleskin around the blister (doughnut shape) and fill the middle with antibiotic ointment.\nCover and secure moleskin in place.</item>
+        <item>Consider spinal injury.\nControl any bleeding.\nHave the patient remain still if you suspect a head, neck or spinal injury.\nContinually monitor the patient’s condition.</item>
+        <item>Immediately remove the patient from the source of the burn and cool the burn with large amounts of cool water\nRemove any clothing and jewelry from the area by carefully removing or cutting material away. (Do not take off clothing that is melted to the skin.)\nFor small superficial burns or small burns with open blisters:\nWash the area.\nApply antibiotic ointment.\nCover the burn with a sterile dressing and secure it in place.\nFor large burns and severe burns, cover the burned area by loosely bandaging dry, sterile dressings in place.\nTake steps to minimize shock and prevent hypothermia and dehydration.</item>
+        <item>For rib fracture(s), stabilize the fracture, being careful to not restrict breathing.\nFor a sucking chest wound, use an occlusive dressing taped down on three sides. Monitor for difficulty breathing.\nIf the patient has difficulty breathing, remove the dressing. Insert a gloved finger to release pressure, if necessary.</item>
+        <item>Do not use force to dislodge objects.\nTo remove insects from ear, flood the ear with cooking oil.\nTo prevent infection, rinse with 50 percent water and 50 percent alcohol or vinegar solution.</item>
+        <item>Help the patient self-administer four 81-mg aspirins or one 325-mg aspirin, if he or she can swallow and has no known contraindications.\nIf the patient has a strong pulse in the wrist (radial) and has been prescribed nitroglycerin, help him or her self-administer one pill under the tongue with the patient sitting.</item>
+        <item>Remove the patient from the heat.\nRemove clothing and help the patient rest.\nHelp the patient replace lost fluids and salt.</item>
+        <item>Cool the patient immediately using cold water immersion or by drenching the patient with cold water.</item>
+        <item>Remove the patient from the cold.\nRemove all wet clothing.\nInsulate the patient from the ground and bundle in dry blankets.\nGive the patient something warm to drink.\nFor moderate hypothermia, re-warm the patient using warm bottles, heat packs or body heat from another person’s body. continue to monitor both patient and caregiver.\nFor severe hypothermia, gradually re-warm the patient using a hypothermia wrap with warm water bottles, placed on the groin and under the armpits.</item>
+        <item>Have the patient lean forward and pinch just below the bridge of the nose for 10 minutes. Repeat as necessary.\nIf the patient suffered a blow to the nose that caused a deformity, care for the injury with cold packs.</item>
+        <item>Identify the cause and care for the condition found.\nProtect the patient from getting chilled, overheated or wet. Keep the patient calm.\nFor long-term care, keep the patient from getting dehydrated.</item>
+        <item>Immobilize the head, neck and back.\nKeep the patient still and do not move him or her.</item>
+        <item>Use RICE for sprains, strains and fractures. Repeat RICE 3 to 4 times a day until pain and swelling subside.\nR = Rest the injured area.\nI = Immobilize the injured area.\nC = Apply cold to the injured area.\nE = Elevate the injured area above heart level, except with certain serious injuries to the limbs.\nSplinting considerations:\nPad the injury, but make it rigid enough to provide support.\nsplint in the position of function.\ncheck circulation, sensation and motion (CSM) often.\nRemove jewelry.</item>
+        <item>For temporary fillings, use sugarless gum, oil of cloves or a commercial dental adhesive product.\nFor knocked-out teeth, hold the tooth by the crown and avoid touching the root, rinse the socket and tooth with clean (preferably sterile) water and immediately replace the tooth in the socket. If the tooth cannot be replaced, have the patient hold it in his or her mouth, taking care not to swallow it. If the patient cannot hold the tooth in his or her mouth, ideally transport it in milk or a 0.9 percent saline solution.</item>
+    </string-array>
+    <string-array name="drug_terms_array">
+        <item>Pepto-Bismol</item>
+        <item>Rosuvastatin(Crestor)</item>
+        <item>Apo-Atorvastatin</item>
+        <item>Ibuprofen</item>
+        <item>Asaphen</item>
+        <item>Naproxen</item>
+        <item>Apo-furosemide</item>
+        <item>Apo-hydro</item>
+        <item>Clopidogrel(Plavix)</item>
+        <item>Esomeprazole(Nexium)</item>
+        <item>Teva-amoxicillin</item>
+        <item>Rimantadine</item>
+    </string-array>
+    <string-array name="drug_text_array">
+        <item>DEFINITION: Pepto-Bismol is an over-the-counter drug currently produced by the Procter and Gamble company in the United States, Canada and the United Kingdom, to treat minor digestive system upset.\n\nDOSAGE: The usual recommended dose for adults is 525 mg (2 caplets) every 30 minutes as needed, up to a maximum of 16 caplets in 24 hours. For children 10 to 12 years of age, the usual dose is 262 mg (1 caplet) every 30 minutes as needed, up to a maximum of 8 caplets in 24 hours. Children 2 to 9 years of age should use the liquid form of this medication.\n\nSIDE EFFECTS: Nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract.</item>
+        <item>DEFINITION: Used in combination with exercise, diet, and weight-loss to treat high cholesterol and related conditions, and to prevent cardiovascular disease.\n\nDOSAGE: Crestor is available in tablets of 5, 10, 20 and 40 mg strengths. Usual dose ranges from 5 to 20 mg per day.\n\nSIDE EFFECTS: Unexplained muscle pain, tenderness, or weakness; Fever, unusual tiredness, and dark colored urine; Swelling, weight gain, urinating less than usual or not at all; Ornausea, upper stomach pain, itching, loss of appetite, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes).</item>
+        <item>DEFINITION: Used for lowering blood cholesterol. It also stabilizes plaque and prevents strokes through anti-inflammation and other mechanisms.\n\nDOSAGE: Packaged in 5 mg, 10 mg and 20 mg oral tablets.\n\nSIDE EFFECTS: Weakness, Insomnia and dizziness, Chest pain and peripheral edema, Rash, Abdominal pain, constipation, diarrhea, dyspepsia, flatulence, nausea, Urinary tract infection, Arthralgia, myalgia, back pain, arthritis, Sinusitis, pharyngitis, bronchitis, rhinitis, Infection, flu-like syndrome, allergic reaction.</item>
+        <item>DEFINITION: A nonsteroidal anti-inflammatory drug (NSAID) used for pain relief, fever reduction, and for reducing swelling.\n\nDOSAGE: Dose of 400 mg per dose and 1200 mg per day is considered the maximum amount for over-the-counter use in the United States.\n\nSIDE EFFECTS: Common adverse effects include: nausea, dyspepsia, gastrointestinal ulceration/bleeding, raised liver enzymes, diarrhea, constipation, epistaxis, headache, dizziness, rash, salt and fluid retention, and hypertension.</item>
+        <item>DEFINITION: Acetylsalicylic acid (ASA) belongs to the group of medications called analgesics (pain relievers), antipyretics (fever reducers), anti-inflammatories (inflammation reducers), and platelet aggregation inhibitors (anticlotting agents).\n\nDOSAGE:To treat pain or fever in adults, the recommended dose is 325 mg to 650 mg every 4 to 6 hours as needed. The maximum daily dose is 4,000 mg, unless otherwise directed by your doctor.\n\nSIDE EFFECTS: Bruising more easily, confusion, dizziness, fainting, nausea or vomiting, pain, buzzing or ringing in ears, severe or continuing abdominal or stomach pain, cramping, or burning, unusual tiredness or weakness.</item>
+        <item>DEFINITION: Commonly used for relief of a wide variety of pain, fever, inflammations, and stiffness.\n\nDOSAGE: Maximum daily dose of five tablets or 1375 mg.\n\nSIDE EFFECTS: Increases in the number of serious and potentially fatal cardiovascular events, such as myocardial infarctions and strokes. Naproxen is however associated with the smallest overall cardiovascular risks.</item>
+        <item>DEFINITION: This medication is used to treat edema (fluid retention) that occurs with congestive heart failure and disorders of the liver, kidney, and lung. It is also used to control mild to moderate high blood pressure.\n\nDOSAGE: 40 mg to 80 mg\n\nSIDE EFFECTS: Blurred vision, constipation, diarrhea, dizziness or lightheadedness when getting up from a lying or sitting position, increased sensitivity of skin to sunlight, loss of appetite, vomiting.</item>
+        <item>DEFINITION: It is also an antihypertensive. It is used to decrease fluid retention (edema) caused by congestive heart failure, certain kidney or liver problems, and medications such as corticosteroids (e.g., prednisone) and estrogen. It is also used to lower high blood pressure. \n\nDOSAGE: 25 mg to 200 mg\n\nSIDE EFFECTS: Constipation, decreased sexual ability, diarrhea, dizziness or lightheadedness when getting up from a lying or sitting position, headache, increased sensitivity of skin to sunlight (skin rash, itching, redness, other discoloration of skin, or severe sunburn after exposure to sunlight), nausea, loss of appetite, upset stomach, vomiting</item>
+        <item>DEFINITION: Used to inhibit blood clots in coronary artery disease, peripheral vascular disease, and cerebrovascular disease.\n\nDOSAGE: 75 mg and 300 mg\n\nSIDE EFFECTS: Adverse effects include hemorrhage, severe neutropenia, and thrombotic thrombocytopenic purpura (TTP).</item>
+        <item>DEFINITION: It is used in the treatment of dyspepsia, peptic ulcer disease (PUD), gastroesophageal reflux disease (GORD/GERD) and Zollinger-Ellison syndrome.\n\nDOSAGE: Single 20 to 40 mg oral doses generally give rise to peak plasma esomeprazole concentrations of 0.5 to 1.0 mg/L within 1 to 4 hours.\n\nSIDE EFFECTS: Common side effects include headache, diarrhea, nausea, flatulence, decreased appetite, constipation, dry mouth, and abdominal pain.</item>
+        <item>DEFINITION: Amoxicillin/clavulanic acid is widely used to treat many infections caused by susceptible bacteria, such as urinary tract infections, respiratory tract infections, skin and soft tissue infections, and infections caused by the bacterial flora of the mouth, such as dental infections, infected animal bites, and infected human bites.\n\nDOSAGE: 500 mg orally 3 times a day or 875 mg orally twice a day for six months.\n\nSIDE EFFECTS: Possible side effects include diarrhea, vomiting, nausea, thrush, and a skin rash.</item>
+        <item>DEFINITION: Used to treat, and in rare cases prevent, influenzavirus A infection.\n\nDOSAGE: Normally recommended dose: 100 mg orally twice a day for 7 days\n\nSIDE EFFECTS: Rimantadine can produce gastrointestinal and central nervous system adverse effects.</item>
+    </string-array>
+
+    <string name="title_main_menu">Main Menu</string>
+    <string name="button_BMI">BMI Calculator</string>
+    <string name="button_FA">First Aid Database</string>
+    <string name="button_Drug">Drug Database</string>
+    <string name="mass">Enter mass (kg)</string>
+    <string name="height">Enter height (m)</string>
+    <string name="button_send">Send</string>
+    <string name="query">Enter query</string>
+    <string name="title_activity_external_menu">ExternalMenu</string>
+    <string name="title_activity_drug_display">DrugDisplay</string>
+    <string name="title_activity_drug_result">DrugResult</string>
+    <string name="title_activity_first_aid_display">FirstAidDisplay</string>
+    <string name="title_activity_first_aid_result">FirstAidResult</string>
+    <string name="title_activity_patient_list">PatientList</string>
+    <string name="title_activity_view_appointments">ViewAppointments</string>
+    <string name="title_activity_edit_appointments">EditAppointments</string>
+    <string name="title_activity_admin_patient_list">AdminPatientList</string>
+    <string name="title_activity_xyplot">XYPlotActivity</string>
+    <string name="title_activity_plot_menu">PlotMenu</string>
+
+    <string-array name="spinner_activity_menu">
+        <item>Weight</item>
+        <item>Height</item>
+    </string-array>
+
+    <string name="onClickSpinner_activity_menu">onItemSelected</string>
+    <string name="buttonText_activity_menu">Go</string>
+    <string name="buttonMethod_activity_menu">sendMessage</string>
+    <string name="title_activity_remove_admin_patient_list">RemoveAdminPatientList</string>
+    <string name="title_activity_remove_admin_doctor_list">RemoveAdminDoctorList</string>
+
+</resources>

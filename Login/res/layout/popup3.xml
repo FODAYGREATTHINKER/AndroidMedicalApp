@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+     <TextView
+         android:id="@+id/textView1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentTop="true"
+         android:text="Are you sure that you want to delete this patient?"
+         android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <Button
+         android:id="@+id/dialogButtonOK"
+         android:layout_width="100px"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_below="@+id/textView1"
+         android:layout_marginLeft="60dp"
+         android:layout_marginTop="36dp"
+         android:text=" Ok " />
+
+     <Button
+         android:id="@+id/Cancel"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignBaseline="@+id/dialogButtonOK"
+         android:layout_alignBottom="@+id/dialogButtonOK"
+         android:layout_marginLeft="57dp"
+         android:layout_toRightOf="@+id/dialogButtonOK"
+         android:text="Cancel" />
+ 
+</RelativeLayout>
